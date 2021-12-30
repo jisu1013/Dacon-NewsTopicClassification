@@ -1,4 +1,4 @@
-
+## 데이콘 뉴스토픽분류에서 2등을 한 코드를 참고로 프로젝트 
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
